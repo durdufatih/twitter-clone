@@ -11,7 +11,7 @@ I have planned to completed to below screen but i have completed only home scree
 - Left Menu
 - Settings
 - Messages
-- 
+
 ## Used Component
 - Column
 - Row
@@ -19,12 +19,12 @@ I have planned to completed to below screen but i have completed only home scree
 - Image
 - Icons
 
-##Screenshots
-You can find screenshots 
+## Screenshots
+You can find screenshots at that section.
 This is first screen that when the application has been opened
 ![Home Page](app/src/main/res/drawable/home.png)
 
-When click Profile image you can find left Menu
+When click profile image you can find left Menu
 ![Left Menu](app/src/main/res/drawable/left.png)
 
 
