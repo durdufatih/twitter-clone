@@ -21,11 +21,11 @@ I have planned to completed to below screen but i have completed only home scree
 
 ##Screenshots
 You can find screenshots 
-This is first screen that when the application has been opened 
-![](src/main/res/drawable/home.png)
+This is first screen that when the application has been opened
+<img alt="Homepage" height="400" src="src/main/res/drawable/home.png" width="400"/>
 
 When click Profile image you can find left Menu
-![](src/main/res/drawable/left.png)
+<img alt="Left Menu" height="400" src="src/main/res/drawable/left.png" width="400"/>
 
 
 
